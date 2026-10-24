@@ -1,0 +1,10 @@
+com\ipweather\model\Forecast.class
+com\ipweather\Main.class
+com\ipweather\controller\WeatherController.class
+com\ipweather\utility\WeatherCondition.class
+com\ipweather\service\WeatherService.class
+com\ipweather\model\City.class
+com\ipweather\service\ForecastService.class
+com\ipweather\service\GeocodingService.class
+com\ipweather\model\Weather.class
+com\ipweather\utility\TemperatureConverter.class
